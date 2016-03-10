@@ -16,5 +16,3 @@ Search for items from specific seller: GET /api/v1/items?pid={profileID}
 Calculation:
 Find another users’ average rating: GET /api/v1/profiles/{id}
 Find top 5 best sellers: GET /api/v1/service/top5
-
-TEST
